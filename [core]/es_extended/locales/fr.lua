@@ -130,6 +130,10 @@ return {
     ["enabled"] = "~g~activé~s~",
     ["disabled"] = "~r~désactivé~s~",
 
+    ["command_giveammo"] = "Donner des munitions à un joueur",
+    ["command_refreshitems"] = "Actualiser la liste des objets",
+    ["command_refreshitems_success"] = "La liste des objets a été actualisée avec succès",
+
     -- Locale settings
     ["locale_digit_grouping_symbol"] = " ",
     ["locale_currency"] = "$%s",
@@ -154,6 +158,7 @@ return {
     ["weapon_poolcue"] = "Queue de billard",
     ["weapon_stone_hatchet"] = "Hachette en pierre",
     ["weapon_switchblade"] = "Couteau à cran d'arrêt",
+    ["weapon_stunrod"] = "Matraque électrique",
 
     -- Handguns
     ["weapon_appistol"] = "Pistolet automatique",
@@ -175,6 +180,7 @@ return {
     ["weapon_stungun"] = "Taser",
     ["weapon_raypistol"] = "Atomiseur",
     ["weapon_vintagepistol"] = "Pistolet vintage",
+    ["weapon_tecpistol"] = "Pistolet-mitrailleur TEC",
 
     -- Shotguns
     ["weapon_assaultshotgun"] = "Fusil d'assaut",
@@ -215,6 +221,7 @@ return {
     ["weapon_specialcarbine"] = "Carabine spéciale",
     ["weapon_specialcarbine_mk2"] = "Carabine spéciale MK2",
     ["weapon_heavyrifle"] = "Fusil lourd",
+    ["weapon_battlerifle"] = "Fusil de combat",
 
     -- Sniper
     ["weapon_heavysniper"] = "Sniper lourd",
@@ -232,6 +239,10 @@ return {
     ["weapon_railgun"] = "Fusil à rail",
     ["weapon_rpg"] = "Lanceur de rockette",
     ["weapon_rayminigun"] = "Exterminateur",
+    ["weapon_snowlauncher"] = "Lanceur de boules de neige",
+    ["weapon_emplauncher"] = "Lanceur à impulsion électromagnétique",
+    ["weapon_grenadelauncher_smoke"] = "Lance-grenades fumigènes",
+    ["weapon_hackingdevice"] = "Dispositif de piratage",
 
     -- Criminal Enterprises DLC
     ["weapon_metaldetector"] = "Détecteur de métaux",
